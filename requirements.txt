@@ -1,0 +1,24 @@
+# Data mining
+yfinance
+pandas_datareader
+requests
+
+# Data manipulation & cleaning
+pandas
+numpy
+
+# Visualization & analytics
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Deep learning (optional, only if you want LSTM/RNN)
+tensorflow
+keras
+
+# Utilities
+jupyter
